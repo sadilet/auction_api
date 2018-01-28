@@ -1,0 +1,12 @@
+amqp==2.2.2
+billiard==3.5.0.3
+celery==4.1.0
+Django==1.11.5
+django-filter==1.0.4
+djangorestframework==3.6.4
+djangorestframework-filters==0.10.1
+kombu==4.1.0
+Markdown==2.6.9
+pytz==2017.2
+redis==2.10.6
+vine==1.1.4
