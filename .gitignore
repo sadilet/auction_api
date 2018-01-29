@@ -1,3 +1,6 @@
-/myenv
-/.idea
+myenv/
+.idea/
 db.sqlite3
+*.logs
+__pycache__/
+*.pyc
